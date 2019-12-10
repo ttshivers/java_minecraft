@@ -1,1 +1,1 @@
-Pterodactyl Java container
+Pterodactyl container with extra flags
